@@ -1,0 +1,13 @@
+# Topics covered
+- modules and Scope
+- model
+- services
+- filter and expressions
+- data binding
+- deeplinking
+- routing
+- partials
+- list template
+- details template
+- navigation
+- simple animation with css and angular ngAnimate -ng-show
